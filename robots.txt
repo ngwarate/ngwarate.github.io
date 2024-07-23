@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ngwarate.github.io/sitemap
+Sitemap: https://ngwarate.github.io/app/sitemap
+Sitemap: https://ngwarate.github.io/assets/sitemap
+Sitemap: https://ngwarate.github.io/css/sitemap
+Sitemap: https://ngwarate.github.io/includes/sitemap
+Sitemap: https://ngwarate.github.io/item/sitemap
+Sitemap: https://ngwarate.github.io/src/sitemap
